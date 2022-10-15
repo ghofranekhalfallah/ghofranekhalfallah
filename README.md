@@ -1,7 +1,7 @@
 - 👋 Hi, I’m ghofrane khalfallah
 - 📖 I'm an engineering student
 - 👀 I’m  interested in web development and AI filed
-- 💻 Currently , I am familiar with all the novelties in AI and  Web programming ,I'm trying to develop my own projects  in those areas there . 
+- 💻 Currently , I am familiar with all the novelties in AI and  Web programming ,That's why i'm trying to develop my own projects  in those areas there . 
 
 
 <!---
