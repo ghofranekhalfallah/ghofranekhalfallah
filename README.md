@@ -1,8 +1,6 @@
 - 👋 Hi, I’m ghofrane khalfallah
 - 📖 I'm a Data science and AI engineering student
-- 👀 I’m  interested in web development and AI field
-- 💻 Currently , I am familiar with all the novelties in AI and  Web programming ,That's why i'm trying to develop my own projects  in those areas there . 
-
+- 👀 I’m  also interested in web development
 
 <!---
 ghofranekhalfallah/ghofranekhalfallah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
